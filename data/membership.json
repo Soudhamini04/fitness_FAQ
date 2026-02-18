@@ -1,0 +1,10 @@
+{
+  "basic": {
+    "guest_policy": "Basic members are not allowed to bring guests.",
+    "cancel_policy": "Basic membership requires 30 days notice for cancellation."
+  },
+  "premium": {
+    "guest_policy": "Premium members can bring 1 guest per visit.",
+    "cancel_policy": "Premium membership can be cancelled with 7 days notice."
+  }
+}

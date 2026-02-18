@@ -1,0 +1,17 @@
+{
+  "treadmill": {
+    "location": "Cardio Zone - First Floor",
+    "usage": "Used for walking, jogging, and running workouts.",
+    "max_time": "Maximum recommended time is 30 minutes during peak hours."
+  },
+  "bench press": {
+    "location": "Strength Training Area",
+    "usage": "Used for chest and upper body strength training.",
+    "max_time": "Please limit usage to 20 minutes during peak hours."
+  },
+  "lat pulldown": {
+    "location": "Machine Area - Ground Floor",
+    "usage": "Used to strengthen back and shoulder muscles.",
+    "max_time": "Limit to 20 minutes during busy hours."
+  }
+}

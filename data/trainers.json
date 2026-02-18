@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Rahul",
+    "specialties": ["weight loss", "cardio"],
+    "experience": 5,
+    "availability": ["morning", "evening"]
+  },
+  {
+    "name": "Sneha",
+    "specialties": ["strength", "muscle gain"],
+    "experience": 7,
+    "availability": ["afternoon", "evening"]
+  },
+  {
+    "name": "Arjun",
+    "specialties": ["weight loss", "strength"],
+    "experience": 4,
+    "availability": ["morning"]
+  }
+]
